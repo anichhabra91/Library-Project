@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\HP\\Downloads\\jxdatepicker-support-1.0.jar",
+        "c:\\Users\\HP\\Downloads\\commons-beanutils-core-1.8.2.jar",
+        "c:\\Users\\HP\\Downloads\\commons-logging-1.1.1.jar",
+        "c:\\Users\\HP\\Downloads\\databinding-1.0.jar",
+        "c:\\Users\\HP\\Downloads\\filters-2.0.235.jar",
+        "c:\\Users\\HP\\Downloads\\swing-worker-1.1.jar",
+        "c:\\Users\\HP\\Downloads\\swingx-1.6.jar",
+        "c:\\Users\\HP\\Downloads\\protobuf-java-3.11.4.jar",
+        "mysql-connector-java-8.0.28.jar"
+    ]
+}
